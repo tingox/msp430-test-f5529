@@ -1,3 +1,7 @@
+# `msp430-test-f5529`
+
+Generated from the msp430-quickstart template.
+
 # `msp430-quickstart`
 
 > A template for building applications for TI MSP430 microcontrollers.
