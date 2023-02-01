@@ -1,8 +1,9 @@
 # `msp430-test-f5529`
 
 Generated from the msp430-quickstart template.
+For testing with a MSP-EXP430F5529LP LaunchPad.
 
-# `msp430-quickstart`
+## `msp430-quickstart`
 
 > A template for building applications for TI MSP430 microcontrollers.
 
